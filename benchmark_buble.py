@@ -20,6 +20,7 @@ def test_func():
 	print "bubble sort benchmark test start"
 	print "_" * 60
 	os.chdir(os.getcwd())
+	call_func("ruby bubble_sort.rb", "ruby bubble sort")
 	call_func("python bubble_sort.py" , "python bubble sort")
 	call_func("perl buble_sort.pl", "perl bubble sort")
 	call_func("./a.out", "go bubble sort")
