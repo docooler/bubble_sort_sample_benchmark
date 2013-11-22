@@ -4,10 +4,10 @@ bubble_sort_sample_benchmark
 a sample bubble sort by go python perl
 
 ============================
-Don't try run this test under the windows.
-at first , I run this code under the windows,
+Don't try to run this test case under the windows.
+at first , I run this test case under the windows,
 go lang is the most slowly.
-after run in ubuntu(same laptop).
+after run it in ubuntu(same laptop).
 pls see testout.md as below:
 $ python benchmark_buble.py 
 ____________________________________________________________
