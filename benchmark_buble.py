@@ -23,6 +23,7 @@ def test_func():
 	call_func("python bubble_sort.py" , "python bubble sort")
 	call_func("perl buble_sort.pl", "perl bubble sort")
 	call_func("./a.out", "go bubble sort")
+	call_func("./bu_c.out", "C bubble sort")
 	print "_" * 60
 	print "bubble sort benchmark test End"
 	print "_" * 60
