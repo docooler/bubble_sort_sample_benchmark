@@ -1,7 +1,5 @@
 package main 
 
-// import "fmt"
-
 func bubble_sort(array []int) {
 	length := len(array)
 	for i:=0; i<length;i++{
