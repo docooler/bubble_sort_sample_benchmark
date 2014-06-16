@@ -9,9 +9,5 @@ def bubble_sort(data):
 
 def test_func():
 	arr = [4, 88, 5, 21, 92, 37, 56, 13, 75, 19, 64, 57, 94, 34, 8, 12, 71, 99, 102, 38]
-	# print "before:"
-	# print arr
 	bubble_sort(arr)
-	# print "after:"
-	# print arr
 test_func()
