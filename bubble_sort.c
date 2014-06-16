@@ -23,13 +23,7 @@ void bubble_sort(int arr[], int length)
 
 int  main(void)
 {
-	// int i = 0;
 	int array[] = {4, 88, 5, 21, 92, 37, 56, 13, 75, 19, 64, 57, 94, 34, 8, 12, 71, 99, 102, 38};
 	bubble_sort(array, LEN);
-    // for (; i < LEN; ++i)
-    // {
-    // 	printf("%d ", array[i]);
-    // }
-
 	return 0;
 }
